@@ -29,7 +29,7 @@
 	    <param name="ios-package" value="CDVInAppBrowser" />
 	</feature>
   <icon src="icon.png"/>
-  <splash src="icon.png" platform="ios"/>
+  <splash src="logo.png" platform="ios"/>
   <preference name="EnableViewportScale" value="true"/>
   <preference name="Orientation" value="landscape" />
 <preference name="AllowInlineMediaPlayback" value="true" />
