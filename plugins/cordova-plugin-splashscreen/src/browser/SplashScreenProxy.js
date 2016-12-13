@@ -25,8 +25,8 @@ var splashImageHeight = 200;
 var position = { x: 0, y: 0, width: splashImageWidth, height: splashImageHeight }; 
 var localSplash; // the image to display
 var localSplashImage;
-var bgColor = "pink";
-//var bgColor = "rgba(255, 255, 255, .05)";
+//var bgColor = "pink";
+var bgColor = "rgba(255, 255, 255, .05)";
 var imageSrc = '/logo.png';
 var splashScreenDelay = 3000; // in milliseconds
 var showSplashScreen = true; // show splashcreen by default
